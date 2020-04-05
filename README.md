@@ -17,3 +17,12 @@ A simple 2 player version of the classic game Naughts and Crosses.
 ```sh
 python3 o_and_x/main.py
 ```
+
+### Rock, Paper, Scissors
+
+A 0, 1 or 2 player version of Rock, Paper, Scissors, with the option to play
+against another human, the AI or watch 2 AIs battle it out.
+
+```sh
+python3 rps/main.py
+```
