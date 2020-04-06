@@ -26,3 +26,11 @@ against another human, the AI or watch 2 AIs battle it out.
 ```sh
 python3 rps/main.py
 ```
+
+### Hangman
+
+Just a quick implementation of the classic word guessing game.
+
+```sh
+python3 hangman/main.py
+```
