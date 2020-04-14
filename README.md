@@ -34,3 +34,11 @@ Just a quick implementation of the classic word guessing game.
 ```sh
 python3 hangman/main.py
 ```
+
+### Minesweeper
+
+A text only implemntation of the classic mine hunting game.
+
+```sh
+python3 minesweeper/main.py
+```
