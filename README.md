@@ -42,3 +42,11 @@ A text only implemntation of the classic mine hunting game.
 ```sh
 python3 minesweeper/main.py
 ```
+
+### Ducks in a row
+
+Swap ducks until they are all in a row.
+
+```sh
+python3 ducks_in_a_row/main.py
+```
