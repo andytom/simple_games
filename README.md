@@ -50,3 +50,11 @@ Swap ducks until they are all in a row.
 ```sh
 python3 ducks_in_a_row/main.py
 ```
+
+### Towers of Hanoi
+
+Basic version of the Towers of Hanoi puzzle.
+
+```sh
+python3 tower/main.py
+```
