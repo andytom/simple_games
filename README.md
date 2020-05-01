@@ -1,11 +1,29 @@
 Simple Games
 ============
 
+<!-- vim-markdown-toc GFM -->
+
+* [Overview](#overview)
+* [Games](#games)
+    * [Naughts and Crosses](#naughts-and-crosses)
+    * [Rock, Paper, Scissors](#rock-paper-scissors)
+    * [Hangman](#hangman)
+    * [Minesweeper](#minesweeper)
+    * [Ducks in a row](#ducks-in-a-row)
+    * [Towers of Hanoi](#towers-of-hanoi)
+
+<!-- vim-markdown-toc -->
+
 Overview
 --------
 
-This is a collection of simple games written when in lockdown. Each game is
-written in Python3 and uses only the standard library.
+Due to the current Covid-19 situation I'm stuck in lockdown. The following is
+an attempt to write some games something I have never tried before. The games
+are all written in Python using only using the standard library. The code here
+is very quick and dirty there is a lot of duplication and inelegant code and
+there are no tests. The only thing I am doing is using black for formatting
+since vim does that for me. This is intentional I wanted to focus on writing
+the games and not picking frameworks, writing tests and general code quality.
 
 Games
 -----
